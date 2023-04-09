@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2fa14aa4-8be3-463f-96f4-bc26f158ef64" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2KXxDkZSRLFYaCA7uEI73q5UrNp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fa14aa4-8be3-463f-96f4-bc26f158ef64" name="Changes" comment="" />
+      <created>1674134614520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674134614520</updated>
+      <workItem from="1674134615745" duration="2267000" />
+      <workItem from="1674154769790" duration="10820000" />
+      <workItem from="1674242260402" duration="4420000" />
+      <workItem from="1674250745265" duration="560000" />
+      <workItem from="1674327822786" duration="9938000" />
+      <workItem from="1674406675772" duration="13634000" />
+      <workItem from="1674499565759" duration="19208000" />
+      <workItem from="1674550324911" duration="2764000" />
+      <workItem from="1674555793244" duration="2103000" />
+      <workItem from="1674574262844" duration="768000" />
+      <workItem from="1674575044580" duration="7811000" />
+      <workItem from="1674597983455" duration="741000" />
+      <workItem from="1674635420013" duration="3469000" />
+      <workItem from="1674667301603" duration="922000" />
+      <workItem from="1674857038946" duration="4000" />
+      <workItem from="1675104401428" duration="273000" />
+    </task>
+    <task id="LOCAL-00001" summary="Inital AbstractBehavior setup">
+      <created>1674328724436</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674328724436</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Before generalization under Production.Commands">
+      <created>1674415038836</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674415038836</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Working single station wine factory">
+      <created>1674499599747</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674499599747</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Transfer Acknowledgement">
+      <created>1674500966008</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674500966008</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Started reserved resources">
+      <created>1674511351831</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674511351831</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added TCP for MAMROT">
+      <created>1674517726713</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674517726713</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Before unknowlegded">
+      <created>1674574295069</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674574295069</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed multiplying">
+      <created>1674589972637</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674589972637</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed stackoverflow">
+      <created>1674598318511</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674598318511</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fixed stackoverflow">
+      <created>1674635578359</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674635578359</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Removed unnecessary calls">
+      <created>1674667378649</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674667378649</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="SwitchToAbstractActor" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inital AbstractBehavior setup" />
+    <MESSAGE value="Before generalization under Production.Commands" />
+    <MESSAGE value="Working single station wine factory" />
+    <MESSAGE value="Transfer Acknowledgement" />
+    <MESSAGE value="Started reserved resources" />
+    <MESSAGE value="Added TCP for MAMROT" />
+    <MESSAGE value="Before unknowlegded" />
+    <MESSAGE value="Fixed multiplying" />
+    <MESSAGE value="Fixed stackoverflow" />
+    <MESSAGE value="Removed unnecessary calls" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed unnecessary calls" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Zadanie2/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="887f95a3-7300-4ed0-8c1d-b2b3c206b205" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TextItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TextItem.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2JMStCxa4Jg3jcbKb4BReSGj17r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/wieslaw/Kursy/ParadygmatyProgramowaniaLaboratoria/ParadygmatyProgramowaniaLista8/ParadygmatyProgramowaniaLaboratoriaLista8&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="887f95a3-7300-4ed0-8c1d-b2b3c206b205" name="Changes" comment="" />
+      <created>1671886674251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671886674251</updated>
+      <workItem from="1671886675413" duration="2019000" />
+      <workItem from="1671964212680" duration="502000" />
+      <workItem from="1671968520256" duration="3151000" />
+      <workItem from="1671972477666" duration="2888000" />
+      <workItem from="1671978246191" duration="8837000" />
+      <workItem from="1671989053845" duration="9656000" />
+      <workItem from="1672044963063" duration="11468000" />
+      <workItem from="1672061492108" duration="7873000" />
+      <workItem from="1672076795642" duration="138000" />
+      <workItem from="1672434084441" duration="12594000" />
+      <workItem from="1672477550444" duration="5202000" />
+      <workItem from="1672520510405" duration="2109000" />
+      <workItem from="1672593351306" duration="2480000" />
+      <workItem from="1672599860358" duration="10832000" />
+      <workItem from="1672613984618" duration="4508000" />
+      <workItem from="1672621304891" duration="8325000" />
+      <workItem from="1672775373495" duration="5699000" />
+      <workItem from="1673027765609" duration="7703000" />
+      <workItem from="1673089526600" duration="19809000" />
+      <workItem from="1673112818696" duration="8128000" />
+    </task>
+    <task id="LOCAL-00001" summary="Triangle">
+      <created>1672048275059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672048275059</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Cube">
+      <created>1673031625630</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673031625630</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Animation of 3D objects, and added support for videos">
+      <created>1673108035329</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673108035329</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cool object translation in animation">
+      <created>1673119888310</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673119888310</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed cube translation">
+      <created>1673120903375</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673120903375</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Stateless_Cube" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Triangle" />
+    <MESSAGE value="Cube" />
+    <MESSAGE value="Animation of 3D objects, and added support for videos" />
+    <MESSAGE value="Cool object translation in animation" />
+    <MESSAGE value="Fixed cube translation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed cube translation" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

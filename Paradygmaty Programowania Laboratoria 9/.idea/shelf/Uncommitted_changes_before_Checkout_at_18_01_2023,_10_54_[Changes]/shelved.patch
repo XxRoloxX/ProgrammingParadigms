@@ -1,0 +1,216 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"887f95a3-7300-4ed0-8c1d-b2b3c206b205\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/Main.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Main.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/MixInSingleton.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/MixInTriangleSingleton.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/Rect.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Rect.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/Triangle.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Triangle.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"CodeStyleSettingsInfer\">\n    <option name=\"done\" value=\"true\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Interface\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;\n  }\n}</component>\n  <component name=\"GithubDefaultAccount\">\n    <option name=\"defaultAccountId\" value=\"4f9e4c17-832d-46e6-ab3e-4a759245d801\" />\n  </component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"selectedUrlAndAccountId\">\n      <UrlAndAccount>\n        <option name=\"accountId\" value=\"4f9e4c17-832d-46e6-ab3e-4a759245d801\" />\n        <option name=\"url\" value=\"https://github.com/XxRoloxX/TerminalRenderer\" />\n      </UrlAndAccount>\n    </option>\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\n  </component>\n  <component name=\"ProjectCodeStyleSettingsMigration\">\n    <option name=\"version\" value=\"2\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2JMStCxa4Jg3jcbKb4BReSGj17r\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/home/wieslaw/Repos/TerminalRenderer&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"SvnConfiguration\">\n    <configuration>$USER_HOME$/.subversion</configuration>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"887f95a3-7300-4ed0-8c1d-b2b3c206b205\" name=\"Changes\" comment=\"\" />\n      <created>1671886674251</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1671886674251</updated>\n      <workItem from=\"1671886675413\" duration=\"2019000\" />\n      <workItem from=\"1671964212680\" duration=\"502000\" />\n      <workItem from=\"1671968520256\" duration=\"3151000\" />\n      <workItem from=\"1671972477666\" duration=\"2888000\" />\n      <workItem from=\"1671978246191\" duration=\"8837000\" />\n      <workItem from=\"1671989053845\" duration=\"9656000\" />\n      <workItem from=\"1672044963063\" duration=\"11468000\" />\n      <workItem from=\"1672061492108\" duration=\"7873000\" />\n      <workItem from=\"1672076795642\" duration=\"138000\" />\n      <workItem from=\"1672434084441\" duration=\"12594000\" />\n      <workItem from=\"1672477550444\" duration=\"5202000\" />\n      <workItem from=\"1672520510405\" duration=\"2109000\" />\n      <workItem from=\"1672593351306\" duration=\"2480000\" />\n      <workItem from=\"1672599860358\" duration=\"10832000\" />\n      <workItem from=\"1672613984618\" duration=\"4508000\" />\n      <workItem from=\"1672621304891\" duration=\"8325000\" />\n      <workItem from=\"1672775373495\" duration=\"5699000\" />\n      <workItem from=\"1673027765609\" duration=\"7703000\" />\n      <workItem from=\"1673089526600\" duration=\"19809000\" />\n      <workItem from=\"1673112818696\" duration=\"8128000\" />\n      <workItem from=\"1673167561871\" duration=\"623000\" />\n      <workItem from=\"1673173457014\" duration=\"17712000\" />\n      <workItem from=\"1673210223372\" duration=\"3518000\" />\n      <workItem from=\"1673267006328\" duration=\"2803000\" />\n      <workItem from=\"1673290245115\" duration=\"1050000\" />\n      <workItem from=\"1673295488210\" duration=\"2675000\" />\n      <workItem from=\"1673381833200\" duration=\"2710000\" />\n      <workItem from=\"1673692840119\" duration=\"5389000\" />\n      <workItem from=\"1673812366716\" duration=\"599000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Triangle\">\n      <created>1672048275059</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1672048275059</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Cube\">\n      <created>1673031625630</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1673031625630</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Animation of 3D objects, and added support for videos\">\n      <created>1673108035329</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1673108035329</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Cool object translation in animation\">\n      <created>1673119888310</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1673119888310</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Fixed cube translation\">\n      <created>1673120903375</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1673120903375</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Added Tetrahedron\">\n      <created>1673186840830</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1673186840830</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"Video synchronization with framerate\">\n      <created>1673268378249</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1673268378249</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"Fixed Main.java\">\n      <created>1673649899177</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1673649899177</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"Found a function for MixInSingleton\">\n      <created>1673729817501</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1673729817501</updated>\n    </task>\n    <task id=\"LOCAL-00010\" summary=\"Found a function for MixInSingleton\">\n      <created>1673729838204</created>\n      <option name=\"number\" value=\"00010\" />\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1673729838204</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"11\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"Stateless_Cube\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Triangle\" />\n    <MESSAGE value=\"Cube\" />\n    <MESSAGE value=\"Animation of 3D objects, and added support for videos\" />\n    <MESSAGE value=\"Cool object translation in animation\" />\n    <MESSAGE value=\"Fixed cube translation\" />\n    <MESSAGE value=\"Added Tetrahedron\" />\n    <MESSAGE value=\"Video synchronization with framerate\" />\n    <MESSAGE value=\"Fixed Main.java\" />\n    <MESSAGE value=\"Found a function for MixInSingleton\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Found a function for MixInSingleton\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/Tetrahedron.java</url>\n          <line>219</line>\n          <option name=\"timeStamp\" value=\"2\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/Tetrahedron.java</url>\n          <line>222</line>\n          <option name=\"timeStamp\" value=\"3\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/Tetrahedron.java</url>\n          <line>225</line>\n          <option name=\"timeStamp\" value=\"4\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/Tetrahedron.java</url>\n          <line>228</line>\n          <option name=\"timeStamp\" value=\"5\" />\n        </line-breakpoint>\n        <breakpoint enabled=\"true\" type=\"java-exception\">\n          <properties class=\"java.lang.StackOverflowError\" package=\"java.lang\" />\n          <option name=\"timeStamp\" value=\"6\" />\n        </breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision fbe0b63f460d8ea0e6ad0ece42cbd5b25509f2fa)
++++ b/.idea/workspace.xml	(date 1674035085064)
+@@ -7,9 +7,6 @@
+     <list default="true" id="887f95a3-7300-4ed0-8c1d-b2b3c206b205" name="Changes" comment="">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/MixInSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MixInTriangleSingleton.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Rect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rect.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -30,26 +27,13 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="master" />
++        <entry key="$PROJECT_DIR$" value="main" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory">{
+-  &quot;lastFilter&quot;: {
+-    &quot;state&quot;: &quot;OPEN&quot;
+-  }
+-}</component>
+   <component name="GithubDefaultAccount">
+     <option name="defaultAccountId" value="4f9e4c17-832d-46e6-ab3e-4a759245d801" />
+-  </component>
+-  <component name="GithubPullRequestsUISettings">
+-    <option name="selectedUrlAndAccountId">
+-      <UrlAndAccount>
+-        <option name="accountId" value="4f9e4c17-832d-46e6-ab3e-4a759245d801" />
+-        <option name="url" value="https://github.com/XxRoloxX/TerminalRenderer" />
+-      </UrlAndAccount>
+-    </option>
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+@@ -68,20 +52,20 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;/home/wieslaw/Repos/TerminalRenderer&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "WebServerToolWindowFactoryState": "false",
++    "last_opened_file_path": "/home/wieslaw/Repos/TerminalRenderer",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "settings.editor.selected.configurable": "vcs.Git",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="SvnConfiguration">
+     <configuration>$USER_HOME$/.subversion</configuration>
+@@ -120,8 +104,19 @@
+       <workItem from="1673290245115" duration="1050000" />
+       <workItem from="1673295488210" duration="2675000" />
+       <workItem from="1673381833200" duration="2710000" />
+-      <workItem from="1673692840119" duration="5389000" />
+-      <workItem from="1673812366716" duration="599000" />
++      <workItem from="1673531337528" duration="720000" />
++      <workItem from="1673552864552" duration="1663000" />
++      <workItem from="1673600917265" duration="14000" />
++      <workItem from="1673602059689" duration="2181000" />
++      <workItem from="1673605354569" duration="4978000" />
++      <workItem from="1673626457960" duration="4561000" />
++      <workItem from="1673649095939" duration="612000" />
++      <workItem from="1673815320127" duration="5327000" />
++      <workItem from="1673892093404" duration="52000" />
++      <workItem from="1673892907644" duration="2189000" />
++      <workItem from="1673984955871" duration="1075000" />
++      <workItem from="1673986170331" duration="5163000" />
++      <workItem from="1673994557113" duration="612000" />
+     </task>
+     <task id="LOCAL-00001" summary="Triangle">
+       <created>1672048275059</created>
+@@ -172,28 +167,49 @@
+       <option name="project" value="LOCAL" />
+       <updated>1673268378249</updated>
+     </task>
+-    <task id="LOCAL-00008" summary="Fixed Main.java">
+-      <created>1673649899177</created>
++    <task id="LOCAL-00008" summary="Applied Decorator Design Pattern to Item via ItemInterface">
++      <created>1673634317317</created>
+       <option name="number" value="00008" />
+       <option name="presentableId" value="LOCAL-00008" />
+       <option name="project" value="LOCAL" />
+-      <updated>1673649899177</updated>
++      <updated>1673634317318</updated>
+     </task>
+-    <task id="LOCAL-00009" summary="Found a function for MixInSingleton">
+-      <created>1673729817501</created>
++    <task id="LOCAL-00009" summary="Applied Decorator Design Pattern to Solid via SolidInterface">
++      <created>1673639358318</created>
+       <option name="number" value="00009" />
+       <option name="presentableId" value="LOCAL-00009" />
+       <option name="project" value="LOCAL" />
+-      <updated>1673729817501</updated>
++      <updated>1673639358318</updated>
+     </task>
+-    <task id="LOCAL-00010" summary="Found a function for MixInSingleton">
+-      <created>1673729838204</created>
++    <task id="LOCAL-00010" summary="Finished InteractiveDialogScene interaction with AnimatedScene">
++      <created>1673647754847</created>
+       <option name="number" value="00010" />
+       <option name="presentableId" value="LOCAL-00010" />
+       <option name="project" value="LOCAL" />
+-      <updated>1673729838204</updated>
++      <updated>1673647754847</updated>
++    </task>
++    <task id="LOCAL-00011" summary="Added golden twerk ratio">
++      <created>1673820568092</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1673820568092</updated>
+     </task>
+-    <option name="localTasksCounter" value="11" />
++    <task id="LOCAL-00012" summary="Renamed video files">
++      <created>1673986880530</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1673986880530</updated>
++    </task>
++    <task id="LOCAL-00013" summary="Added test videos">
++      <created>1673987367795</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1673987367795</updated>
++    </task>
++    <option name="localTasksCounter" value="14" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -210,7 +226,7 @@
+                   <entry key="branch">
+                     <value>
+                       <list>
+-                        <option value="Stateless_Cube" />
++                        <option value="Implementing_Decorator_Design_Pattern" />
+                       </list>
+                     </value>
+                   </entry>
+@@ -230,32 +246,21 @@
+     <MESSAGE value="Fixed cube translation" />
+     <MESSAGE value="Added Tetrahedron" />
+     <MESSAGE value="Video synchronization with framerate" />
+-    <MESSAGE value="Fixed Main.java" />
+-    <MESSAGE value="Found a function for MixInSingleton" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Found a function for MixInSingleton" />
++    <MESSAGE value="Applied Decorator Design Pattern to Item via ItemInterface" />
++    <MESSAGE value="Applied Decorator Design Pattern to Solid via SolidInterface" />
++    <MESSAGE value="Finished InteractiveDialogScene interaction with AnimatedScene" />
++    <MESSAGE value="Added golden twerk ratio" />
++    <MESSAGE value="Renamed video files" />
++    <MESSAGE value="Added test videos" />
++    <option name="LAST_COMMIT_MESSAGE" value="Added test videos" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+       <breakpoints>
+         <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/Tetrahedron.java</url>
+-          <line>219</line>
+-          <option name="timeStamp" value="2" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/Tetrahedron.java</url>
+-          <line>222</line>
+-          <option name="timeStamp" value="3" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/Tetrahedron.java</url>
+-          <line>225</line>
+-          <option name="timeStamp" value="4" />
+-        </line-breakpoint>
+-        <line-breakpoint enabled="true" type="java-line">
+-          <url>file://$PROJECT_DIR$/src/Tetrahedron.java</url>
+-          <line>228</line>
+-          <option name="timeStamp" value="5" />
++          <url>file://$PROJECT_DIR$/src/Main.java</url>
++          <line>153</line>
++          <option name="timeStamp" value="7" />
+         </line-breakpoint>
+         <breakpoint enabled="true" type="java-exception">
+           <properties class="java.lang.StackOverflowError" package="java.lang" />
